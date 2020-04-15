@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586977912690,
+  "timestamp": 1586978559456,
   "index": "angular-tictactoe/index.html",
   "assetGroups": [
     {
@@ -49,7 +49,7 @@
     "angular-tictactoe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "angular-tictactoe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "angular-tictactoe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "angular-tictactoe/index.html": "bb71050fba176dba0e7cd7a95423f9413c62226d",
+    "angular-tictactoe/index.html": "3acbd17dc9922d60f9517dbda336095357f08373",
     "angular-tictactoe/main-es2015.e92f84d3df16ca01b528.js": "32a23c0ba0446b7fcea7dbc8e0310d2d73d9695f",
     "angular-tictactoe/main-es5.e92f84d3df16ca01b528.js": "7d21f522e786f91e77818b7c9877e412b087e89f",
     "angular-tictactoe/manifest.webmanifest": "8431495ebe8065953dfb47c52a731e544027c270",
